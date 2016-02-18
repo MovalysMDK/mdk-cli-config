@@ -19,4 +19,4 @@ For a Getting started guide see the [documentation page] <b><font color='red' >(
 [npm-image]: https://img.shields.io/npm/v/mdk-cli.svg
 
 [documentation page]:http://nansrvintc1.ntes.fr.sopra/mfdocs-5.1/
-[MDK CLI]:https://github.com/MovalysMDK/mdk-cli
+[MDK CLI]:https://movalys.org
