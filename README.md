@@ -3,7 +3,7 @@
 
 ## What?
 
-The mdk-cli-config is part of the Movalys MDK Framework.
+The mdk-cli-config is part of the Movalys MDK.
 
 It contains all configuration files needed by the [MDK CLI].
 
