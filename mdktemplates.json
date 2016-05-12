@@ -85,6 +85,12 @@
 			"zipPath":"com/sopragroup/adeuza/movalysfwk/templates/basic/mdk-basic-project/6.4.0/",
 			"zipFile":"mdk-basic-project-6.4.0-bin.zip"
         },
+        {
+			"version":"6.4.1",
+			"mdkVersion":"6.4.1",
+			"zipPath":"com/sopragroup/adeuza/movalysfwk/templates/basic/mdk-basic-project/6.4.1/",
+			"zipFile":"mdk-basic-project-6.4.1-bin.zip"
+        },
 		{
 			"version":"6.6.0-SNAPSHOT",
 			"mdkVersion":"6.6.0-SNAPSHOT",
