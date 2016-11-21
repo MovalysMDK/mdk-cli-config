@@ -5,20 +5,20 @@
     "install": [
         {
             "name": "jdk",
-            "version": "1.7.0.79",
+            "version": "1.8.0.102",
             "script": "common/installJdk",
             "installVersion": 1,
             "os": ["osx"],
             "packages": [ {
-                "url": "http://download.oracle.com/otn-pub/java/jdk/7u79-b15/jdk-7u79-macosx-x64.dmg",
-                "filename": "jdk-7u79-macosx-x64.dmg",
+                "url": "http://download.oracle.com/otn-pub/java/jdk/8u102-b14/jdk-8u102-macosx-x64.dmg",
+                "filename": "jdk-8u102-macosx-x64.dmg",
                 "checksum": "910ad1aa48cccdce6cac012ab7107e0707b2edbb",
                 "headers": {
                     "Cookie": "oraclelicense=accept-securebackup-cookie"
                 },
                 "opts": {
-                    "osxVolumePath" : "/Volumes/JDK 7 Update 79",
-                    "extractedPkgDir": "jdk17079.pkg"
+                    "osxVolumePath" : "/Volumes/JDK 8 Update 102",
+                    "extractedPkgDir": "jdk180102.pkg"
                 }
             }],
             "licenses":[
@@ -32,19 +32,19 @@
         },
         {
             "name": "jdk",
-            "version": "1.7.0.79",
+            "version": "1.8.0.102",
             "script": "common/installJdk",
             "installVersion": 1,
             "os": ["win"],
             "packages": [ {
-                "url": "http://download.oracle.com/otn-pub/java/jdk/7u79-b15/server-jre-7u79-windows-x64.tar.gz",
-                "filename": "server-jre-7u79-windows-x64.tar.gz",
+                "url": "http://download.oracle.com/otn-pub/java/jdk/8u102-b14/server-jre-8u102-windows-x64.tar.gz",
+                "filename": "server-jre-8u102-windows-x64.tar.gz",
                 "checksum": "6c51a9d17f2e2f99eb1f2f9b026718560c6a7065",
                 "headers": {
                     "Cookie": "oraclelicense=accept-securebackup-cookie"
                 },
                 "options": {
-                    "extractedDirectory" : "jdk1.7.0_79"
+                    "extractedDirectory" : "jdk1.8.0_102"
                 }
             }],
             "licenses":[
@@ -223,13 +223,13 @@
             ],
             "opts": {
               "api": [15,22,23],
-              "buildTools": "23.0.1"
+              "buildTools": "23.0.2"
             },
             "diskSpace": 1000
         },
         {
             "name": "gradle",
-            "version": "2.4",
+            "version": "2.14.1",
             "script": "android/installGradle",
             "installVersion": 1,
             "platforms" : ["android"],
