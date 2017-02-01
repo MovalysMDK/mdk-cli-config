@@ -109,6 +109,12 @@
 			"zipPath":"com/sopragroup/adeuza/movalysfwk/templates/basic/mdk-basic-project/6.6.0/",
 			"zipFile":"mdk-basic-project-6.6.0-bin.zip"
         },
+	      {
+			"version":"6.6.1",
+			"mdkVersion":"6.6.1",
+			"zipPath":"com/sopragroup/adeuza/movalysfwk/templates/basic/mdk-basic-project/6.6.1/",
+			"zipFile":"mdk-basic-project-6.6.1-bin.zip"
+        },
 		{
 			"version":"6.7.0-SNAPSHOT",
 			"mdkVersion":"6.7.0-SNAPSHOT",
@@ -221,6 +227,12 @@
 			"mdkVersion":"6.6.0",
 			"zipPath":"com/sopragroup/adeuza/movalysfwk/templates/design/mdk-design-project/6.6.0/",
 			"zipFile":"mdk-design-project-6.6.0-bin.zip"
+        },
+	      {
+			"version":"6.6.1",
+			"mdkVersion":"6.6.1",
+			"zipPath":"com/sopragroup/adeuza/movalysfwk/templates/design/mdk-design-project/6.6.1/",
+			"zipFile":"mdk-design-project-6.6.1-bin.zip"
         },
         {
 			"version":"6.7.0-SNAPSHOT",
@@ -562,7 +574,33 @@
 			"zipFile":"mdk-formation-project-6.7.0-SNAPSHOT-bin.zip"
         }
       ]
-    }
+    },
+	  {
+			"name": "Enedis",
+			"description": "Enedis templates project.",
+			"platforms": [
+				{
+					"name": "html5",
+					"groupId": "com.sopragroup.adeuza.movalysfwk.templates.enedis",
+					"artifactId": "mdk-html5-enedis-template",
+					"minTemplateVersion": "6.6.1"
+				}
+			],
+			"versions": [
+				{
+					"version": "6.6.1",
+					"mdkVersion": "6.6.1",
+					"zipPath": "com/sopragroup/adeuza/movalysfwk/templates/enedis/mdk-enedis-project/6.6.1/",
+					"zipFile": "mdk-enedis-project-6.6.1-bin.zip"
+				},
+				{
+					"version": "6.7.0-SNAPSHOT",
+					"mdkVersion": "6.7.0-SNAPSHOT",
+					"zipPath": "com/sopragroup/adeuza/movalysfwk/templates/enedis/mdk-enedis-project/6.7.0-SNAPSHOT/",
+					"zipFile": "mdk-enedis-project-6.7.0-SNAPSHOT-bin.zip"
+				}
+			]
+		}
 	
   ]
 }
