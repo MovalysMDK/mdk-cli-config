@@ -362,6 +362,18 @@
 			"zipFile":"mdk-my_expenses_demo-project-6.6.0-bin.zip"
         },
 		{
+			"version":"6.6.1",
+			"mdkVersion":"6.6.1",
+			"zipPath":"com/sopragroup/adeuza/movalysfwk/templates/my_expenses_demo/mdk-my_expenses_demo-project/6.6.1/",
+			"zipFile":"mdk-my_expenses_demo-project-6.6.1-bin.zip"
+        },
+		{
+			"version":"6.6.2",
+			"mdkVersion":"6.6.2",
+			"zipPath":"com/sopragroup/adeuza/movalysfwk/templates/my_expenses_demo/mdk-my_expenses_demo-project/6.6.2/",
+			"zipFile":"mdk-my_expenses_demo-project-6.6.2-bin.zip"
+        },
+		{
 			"version":"6.7.0-SNAPSHOT",
 			"mdkVersion":"6.7.0-SNAPSHOT",
 			"zipPath":"com/sopragroup/adeuza/movalysfwk/templates/my_expenses_demo/mdk-my_expenses_demo-project/6.7.0-SNAPSHOT/",
